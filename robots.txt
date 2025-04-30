@@ -1,3 +1,3 @@
 User-Agent: *
 
-Sitemap: https://0markh1i1.github.io//sitemap.xml
+Sitemap: https://0markh1i1.github.io/sitemap.xml
