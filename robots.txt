@@ -1,4 +1,3 @@
 User-Agent: *
-Disallow:
 
 Sitemap: https://obaya.me/sitemap.xml
