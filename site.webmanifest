@@ -1,5 +1,5 @@
 {
-  "name": "Omar Obaya's Portfolio",
+  "name": "Oamr Obaya's Portfolio",
   "short_name": "Obaya",
   "icons": [
     {
@@ -15,7 +15,7 @@
       "purpose": "maskable"
     }
   ],
-  "theme_color": "#121418",
-  "background_color": "#121418",
+  "theme_color": "#191919",
+  "background_color": "#191919",
   "display": "standalone"
 }
