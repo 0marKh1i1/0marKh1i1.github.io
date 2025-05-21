@@ -1,143 +1,149 @@
 <?xml version="1.0" encoding="UTF-8"?>
+
 <urlset
   xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
 >
-<url>
-<loc>https://obaya.me</loc>
-<lastmod>2025-05-16</lastmod>
-</url>
-<url>
-<loc>https://obaya.me/about</loc>
-<lastmod>2025-05-16</lastmod>
-</url>
-<url>
-<loc>https://obaya.me/work</loc>
-<lastmod>2025-05-16</lastmod>
-</url>
-<url>
-<loc>https://obaya.me/blog</loc>
-<lastmod>2025-05-16</lastmod>
-</url>
-<url>
-<loc>https://obaya.me/gallery</loc>
-<lastmod>2025-05-16</lastmod>
-</url>
-<url>
-<loc>https://obaya.me/cv</loc>
-<lastmod>2025-05-16</lastmod>
-</url>
-<url>
-<loc>https://obaya.me/license</loc>
-<lastmod>2025-05-16</lastmod>
-</url>
-<url>
-<loc>https://obaya.me/blog/Ai-Video</loc>
-<lastmod>2025-04-30</lastmod>
-</url>
-<url>
-<loc>https://obaya.me/work/Al-Yasoufy</loc>
-<lastmod>2025-04-30</lastmod>
-</url>
-<url>
-    <loc>https://obaya.me/gallery</loc>
-    <lastmod>2025-05-16</lastmod>
+  <url>
+    <loc>https://obaya.me</loc>
+    <lastmod>2025-05-21</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>1.0</priority>
+  </url>
 
+  <url>
+    <loc>https://obaya.me/about</loc>
+    <lastmod>2025-05-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.8</priority>
+  </url>
+
+  <url>
+    <loc>https://obaya.me/work</loc>
+    <lastmod>2025-05-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://obaya.me/blog</loc>
+    <lastmod>2025-05-21</lastmod>
+    <changefreq>daily</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://obaya.me/cv</loc>
+    <lastmod>2025-05-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.9</priority>
+  </url>
+
+  <url>
+    <loc>https://obaya.me/license</loc>
+    <lastmod>2025-05-21</lastmod>
+    <changefreq>yearly</changefreq>
+    <priority>0.4</priority>
+  </url>
+
+  <url>
+    <loc>https://obaya.me/blog/Ai-Video</loc>
+    <lastmod>2025-05-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://obaya.me/work/Al-Yasoufy</loc>
+    <lastmod>2025-05-21</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+
+  <url>
+    <loc>https://obaya.me/gallery</loc>
+    <lastmod>2025-05-21</lastmod>
+    <changefreq>weekly</changefreq>
+    <priority>0.8</priority>
     <image:image>
       <image:loc>https://obaya.me/images/gallery/mine/IEEEX1.jpg</image:loc>
       <image:caption>IEEE X1 presentation photo</image:caption>
       <image:license>https://obaya.me/license.html</image:license>
     </image:image>
-
     <image:image>
       <image:loc>https://obaya.me/images/gallery/mine/JSNE%20problem-solving%201th%20place%20picture.jpg</image:loc>
       <image:caption>JSNE problem-solving 1st place award</image:caption>
       <image:license>https://obaya.me/license.html</image:license>
     </image:image>
-
     <image:image>
       <image:loc>https://obaya.me/images/gallery/mine/lightBlue-shirt.jpg</image:loc>
       <image:caption>Light blue shirt portrait</image:caption>
       <image:license>https://obaya.me/license.html</image:license>
     </image:image>
-
     <image:image>
       <image:loc>https://obaya.me/images/gallery/mine/Me3.jpg</image:loc>
       <image:caption>Casual portrait of Omar Obaya</image:caption>
       <image:license>https://obaya.me/license.html</image:license>
     </image:image>
-
     <image:image>
       <image:loc>https://obaya.me/images/gallery/mine/acm-ballons.jpeg</image:loc>
       <image:caption>ACM event balloons</image:caption>
       <image:license>https://obaya.me/license.html</image:license>
     </image:image>
-
     <image:image>
       <image:loc>https://obaya.me/images/gallery/mine/acm1.jpeg</image:loc>
       <image:caption>ACM conference group photo</image:caption>
       <image:license>https://obaya.me/license.html</image:license>
     </image:image>
-
     <image:image>
       <image:loc>https://obaya.me/images/gallery/mine/CPEKW.jpg</image:loc>
       <image:caption>CPE Knowledge Workshop</image:caption>
       <image:license>https://obaya.me/license.html</image:license>
     </image:image>
-
     <image:image>
       <image:loc>https://obaya.me/images/gallery/mine/Eureka.jpg</image:loc>
       <image:caption>Eureka innovation fair</image:caption>
       <image:license>https://obaya.me/license.html</image:license>
     </image:image>
-
     <image:image>
       <image:loc>https://obaya.me/images/gallery/mine/IEEERAS.jpg</image:loc>
       <image:caption>IEEE RAS robotics showcase</image:caption>
       <image:license>https://obaya.me/license.html</image:license>
     </image:image>
-
     <image:image>
       <image:loc>https://obaya.me/images/gallery/mine/IEEEX2.jpg</image:loc>
       <image:caption>IEEE X2 conference highlights</image:caption>
       <image:license>https://obaya.me/license.html</image:license>
     </image:image>
-
     <image:image>
       <image:loc>https://obaya.me/images/gallery/mine/robot1.jpeg</image:loc>
       <image:caption>First robotics project</image:caption>
       <image:license>https://obaya.me/license.html</image:license>
     </image:image>
-
     <image:image>
       <image:loc>https://obaya.me/images/gallery/mine/robot2.jpeg</image:loc>
       <image:caption>Second robotics prototype</image:caption>
       <image:license>https://obaya.me/license.html</image:license>
     </image:image>
-
     <image:image>
       <image:loc>https://obaya.me/images/gallery/mine/uni2.jpg</image:loc>
       <image:caption>University campus view 2</image:caption>
       <image:license>https://obaya.me/license.html</image:license>
     </image:image>
-
     <image:image>
       <image:loc>https://obaya.me/images/gallery/mine/uni3.jpg</image:loc>
       <image:caption>University campus view 3</image:caption>
       <image:license>https://obaya.me/license.html</image:license>
     </image:image>
-
     <image:image>
       <image:loc>https://obaya.me/images/gallery/mine/uni4.jpg</image:loc>
       <image:caption>University campus view 4</image:caption>
       <image:license>https://obaya.me/license.html</image:license>
     </image:image>
-
     <image:image>
       <image:loc>https://obaya.me/images/gallery/mine/Eureka2.jpg</image:loc>
       <image:caption>Eureka innovation fair 2</image:caption>
       <image:license>https://obaya.me/license.html</image:license>
     </image:image>
-
   </url>
 </urlset>
