@@ -1,22 +1,13 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<urlset
-  xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
-  xmlns:image="http://www.google.com/schemas/sitemap-image/1.1"
->
+<urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
-    <loc>https://obaya.me</loc>
+    <loc>https://obaya.me/</loc>
     <lastmod>2025-06-09</lastmod>
     <changefreq>daily</changefreq>
-    <priority>1.0</priority>
+    <priority>1</priority>
   </url>
   <url>
     <loc>https://obaya.me/about</loc>
-    <lastmod>2025-06-09</lastmod>
-    <changefreq>monthly</changefreq>
-    <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://obaya.me/about/ar</loc>
     <lastmod>2025-06-09</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
@@ -62,9 +53,6 @@
     <lastmod>2025-06-09</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.8</priority>
-  </url>
-  <url>
-    <loc>https://obaya.me/images/gallery/mine/IEEEX1.jpg</loc>
     <image:image>
       <image:loc>https://obaya.me/images/gallery/mine/IEEEX1.jpg</image:loc>
       <image:caption>Omar presenting at IEEE X1 event</image:caption>
@@ -72,7 +60,19 @@
     </image:image>
   </url>
   <url>
-    <loc>https://obaya.me/images/gallery/mine/lightBlue-shirt.jpg</loc>
+    <loc>https://obaya.me/gallery/IEEEX1.jpg</loc>
+    <lastmod>2025-06-09</lastmod>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://obaya.me/images/gallery/mine/IEEEX1.jpg</image:loc>
+      <image:caption>Omar presenting at IEEE X1 event</image:caption>
+      <image:license>https://obaya.me/license.html</image:license>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://obaya.me/gallery/lightBlue-shirt.jpg</loc>
+    <lastmod>2025-06-09</lastmod>
+    <priority>0.8</priority>
     <image:image>
       <image:loc>https://obaya.me/images/gallery/mine/lightBlue-shirt.jpg</image:loc>
       <image:caption>Portrait of Omar in a light blue shirt</image:caption>
@@ -80,111 +80,9 @@
     </image:image>
   </url>
   <url>
-    <loc>https://obaya.me/images/gallery/mine/JSNE%20problem-solving%201th%20place%20picture.jpg</loc>
-    <image:image>
-      <image:loc>https://obaya.me/images/gallery/mine/JSNE%20problem-solving%201th%20place%20picture.jpg</image:loc>
-      <image:caption>Omar receiving JSNE problem-solving 1st place award</image:caption>
-      <image:license>https://obaya.me/license.html</image:license>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://obaya.me/images/gallery/mine/acm-ballons.jpeg</loc>
-    <image:image>
-      <image:loc>https://obaya.me/images/gallery/mine/acm-ballons.jpeg</image:loc>
-      <image:caption>ACM event with balloons</image:caption>
-      <image:license>https://obaya.me/license.html</image:license>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://obaya.me/images/gallery/mine/acm1.jpeg</loc>
-    <image:image>
-      <image:loc>https://obaya.me/images/gallery/mine/acm1.jpeg</image:loc>
-      <image:caption>Group photo at ACM conference</image:caption>
-      <image:license>https://obaya.me/license.html</image:license>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://obaya.me/images/gallery/mine/CPEKW.jpg</loc>
-    <image:image>
-      <image:loc>https://obaya.me/images/gallery/mine/CPEKW.jpg</image:loc>
-      <image:caption>CPE Knowledge Workshop event</image:caption>
-      <image:license>https://obaya.me/license.html</image:license>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://obaya.me/images/gallery/mine/Eureka.jpg</loc>
-    <image:image>
-      <image:loc>https://obaya.me/images/gallery/mine/Eureka.jpg</image:loc>
-      <image:caption>Omar at Eureka innovation fair</image:caption>
-      <image:license>https://obaya.me/license.html</image:license>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://obaya.me/images/gallery/mine/IEEERAS.jpg</loc>
-    <image:image>
-      <image:loc>https://obaya.me/images/gallery/mine/IEEERAS.jpg</image:loc>
-      <image:caption>IEEE RAS robotics showcase</image:caption>
-      <image:license>https://obaya.me/license.html</image:license>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://obaya.me/images/gallery/mine/IEEEX2.jpg</loc>
-    <image:image>
-      <image:loc>https://obaya.me/images/gallery/mine/IEEEX2.jpg</image:loc>
-      <image:caption>Highlights from IEEE X2 conference</image:caption>
-      <image:license>https://obaya.me/license.html</image:license>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://obaya.me/images/gallery/mine/robot1.jpeg</loc>
-    <image:image>
-      <image:loc>https://obaya.me/images/gallery/mine/robot1.jpeg</image:loc>
-      <image:caption>First robotics project by Omar</image:caption>
-      <image:license>https://obaya.me/license.html</image:license>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://obaya.me/images/gallery/mine/robot2.jpeg</loc>
-    <image:image>
-      <image:loc>https://obaya.me/images/gallery/mine/robot2.jpeg</image:loc>
-      <image:caption>Second robotics prototype by Omar</image:caption>
-      <image:license>https://obaya.me/license.html</image:license>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://obaya.me/images/gallery/mine/uni2.jpg</loc>
-    <image:image>
-      <image:loc>https://obaya.me/images/gallery/mine/uni2.jpg</image:loc>
-      <image:caption>View of university campus</image:caption>
-      <image:license>https://obaya.me/license.html</image:license>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://obaya.me/images/gallery/mine/uni3.jpg</loc>
-    <image:image>
-      <image:loc>https://obaya.me/images/gallery/mine/uni3.jpg</image:loc>
-      <image:caption>Another view of university campus</image:caption>
-      <image:license>https://obaya.me/license.html</image:license>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://obaya.me/images/gallery/mine/uni4.jpg</loc>
-    <image:image>
-      <image:loc>https://obaya.me/images/gallery/mine/uni4.jpg</image:loc>
-      <image:caption>University campus view 4</image:caption>
-      <image:license>https://obaya.me/license.html</image:license>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://obaya.me/images/gallery/mine/Eureka2.jpg</loc>
-    <image:image>
-      <image:loc>https://obaya.me/images/gallery/mine/Eureka2.jpg</image:loc>
-      <image:caption>Omar at Eureka innovation fair 2</image:caption>
-      <image:license>https://obaya.me/license.html</image:license>
-    </image:image>
-  </url>
-  <url>
-    <loc>https://obaya.me/images/gallery/mine/at%20ghirass%20iftar.jpg</loc>
+    <loc>https://obaya.me/gallery/at%20ghirass%20iftar.jpg</loc>
+    <lastmod>2025-06-09</lastmod>
+    <priority>0.8</priority>
     <image:image>
       <image:loc>https://obaya.me/images/gallery/mine/at%20ghirass%20iftar.jpg</image:loc>
       <image:caption>Omar attending Ghirass Iftar event</image:caption>
@@ -192,7 +90,9 @@
     </image:image>
   </url>
   <url>
-    <loc>https://obaya.me/images/gallery/mine/with%20orange%20building.jpg</loc>
+    <loc>https://obaya.me/gallery/with%20orange%20building.jpg</loc>
+    <lastmod>2025-06-09</lastmod>
+    <priority>0.8</priority>
     <image:image>
       <image:loc>https://obaya.me/images/gallery/mine/with%20orange%20building.jpg</image:loc>
       <image:caption>Omar posing near an orange building</image:caption>
@@ -200,7 +100,129 @@
     </image:image>
   </url>
   <url>
-    <loc>https://obaya.me/images/gallery/mine/at%20mecca.jpg</loc>
+    <loc>https://obaya.me/gallery/acm-ballons.jpeg</loc>
+    <lastmod>2025-06-09</lastmod>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://obaya.me/images/gallery/mine/acm-ballons.jpeg</image:loc>
+      <image:caption>ACM event with balloons</image:caption>
+      <image:license>https://obaya.me/license.html</image:license>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://obaya.me/gallery/acm1.jpeg</loc>
+    <lastmod>2025-06-09</lastmod>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://obaya.me/images/gallery/mine/acm1.jpeg</image:loc>
+      <image:caption>Group photo at ACM conference</image:caption>
+      <image:license>https://obaya.me/license.html</image:license>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://obaya.me/gallery/CPEKW.jpg</loc>
+    <lastmod>2025-06-09</lastmod>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://obaya.me/images/gallery/mine/CPEKW.jpg</image:loc>
+      <image:caption>CPE Knowledge Workshop event</image:caption>
+      <image:license>https://obaya.me/license.html</image:license>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://obaya.me/gallery/Eureka.jpg</loc>
+    <lastmod>2025-06-09</lastmod>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://obaya.me/images/gallery/mine/Eureka.jpg</image:loc>
+      <image:caption>Omar at Eureka innovation fair</image:caption>
+      <image:license>https://obaya.me/license.html</image:license>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://obaya.me/gallery/IEEERAS.jpg</loc>
+    <lastmod>2025-06-09</lastmod>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://obaya.me/images/gallery/mine/IEEERAS.jpg</image:loc>
+      <image:caption>IEEE RAS robotics showcase</image:caption>
+      <image:license>https://obaya.me/license.html</image:license>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://obaya.me/gallery/IEEEX2.jpg</loc>
+    <lastmod>2025-06-09</lastmod>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://obaya.me/images/gallery/mine/IEEEX2.jpg</image:loc>
+      <image:caption>Highlights from IEEE X2 conference</image:caption>
+      <image:license>https://obaya.me/license.html</image:license>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://obaya.me/gallery/robot1.jpeg</loc>
+    <lastmod>2025-06-09</lastmod>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://obaya.me/images/gallery/mine/robot1.jpeg</image:loc>
+      <image:caption>First robotics project by Omar</image:caption>
+      <image:license>https://obaya.me/license.html</image:license>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://obaya.me/gallery/robot2.jpeg</loc>
+    <lastmod>2025-06-09</lastmod>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://obaya.me/images/gallery/mine/robot2.jpeg</image:loc>
+      <image:caption>Second robotics prototype by Omar</image:caption>
+      <image:license>https://obaya.me/license.html</image:license>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://obaya.me/gallery/uni2.jpg</loc>
+    <lastmod>2025-06-09</lastmod>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://obaya.me/images/gallery/mine/uni2.jpg</image:loc>
+      <image:caption>View of university campus</image:caption>
+      <image:license>https://obaya.me/license.html</image:license>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://obaya.me/gallery/uni3.jpg</loc>
+    <lastmod>2025-06-09</lastmod>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://obaya.me/images/gallery/mine/uni3.jpg</image:loc>
+      <image:caption>Another view of university campus</image:caption>
+      <image:license>https://obaya.me/license.html</image:license>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://obaya.me/gallery/JSNE%20problem-solving%201th%20place%20picture.jpg</loc>
+    <lastmod>2025-06-09</lastmod>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://obaya.me/images/gallery/mine/JSNE%20problem-solving%201th%20place%20picture.jpg</image:loc>
+      <image:caption>Omar receiving JSNE problem-solving 1st place award</image:caption>
+      <image:license>https://obaya.me/license.html</image:license>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://obaya.me/gallery/Eureka2.jpg</loc>
+    <lastmod>2025-06-09</lastmod>
+    <priority>0.8</priority>
+    <image:image>
+      <image:loc>https://obaya.me/images/gallery/mine/Eureka2.jpg</image:loc>
+      <image:caption>Omar at Eureka innovation fair 2</image:caption>
+      <image:license>https://obaya.me/license.html</image:license>
+    </image:image>
+  </url>
+  <url>
+    <loc>https://obaya.me/gallery/at%20mecca.jpg</loc>
+    <lastmod>2025-06-09</lastmod>
+    <priority>0.8</priority>
     <image:image>
       <image:loc>https://obaya.me/images/gallery/mine/at%20mecca.jpg</image:loc>
       <image:caption>Omar visiting Mecca</image:caption>
@@ -208,7 +230,9 @@
     </image:image>
   </url>
   <url>
-    <loc>https://obaya.me/images/gallery/mine/omar%20with%20grandmother.jpg</loc>
+    <loc>https://obaya.me/gallery/omar%20with%20grandmother.jpg</loc>
+    <lastmod>2025-06-09</lastmod>
+    <priority>0.8</priority>
     <image:image>
       <image:loc>https://obaya.me/images/gallery/mine/omar%20with%20grandmother.jpg</image:loc>
       <image:caption>Omar with his grandmother</image:caption>
@@ -216,7 +240,9 @@
     </image:image>
   </url>
   <url>
-    <loc>https://obaya.me/images/gallery/mine/omar%20with%20family.jpg</loc>
+    <loc>https://obaya.me/gallery/omar%20with%20family.jpg</loc>
+    <lastmod>2025-06-09</lastmod>
+    <priority>0.8</priority>
     <image:image>
       <image:loc>https://obaya.me/images/gallery/mine/omar%20with%20family.jpg</image:loc>
       <image:caption>Omar with his family</image:caption>
@@ -224,7 +250,9 @@
     </image:image>
   </url>
   <url>
-    <loc>https://obaya.me/images/gallery/mine/omar%20with%20grandfather.jpg</loc>
+    <loc>https://obaya.me/gallery/omar%20with%20grandfather.jpg</loc>
+    <lastmod>2025-06-09</lastmod>
+    <priority>0.8</priority>
     <image:image>
       <image:loc>https://obaya.me/images/gallery/mine/omar%20with%20grandfather.jpg</image:loc>
       <image:caption>Omar with his grandfather</image:caption>
@@ -232,7 +260,9 @@
     </image:image>
   </url>
   <url>
-    <loc>https://obaya.me/images/gallery/mine/omar%20with%20his%20father.jpg</loc>
+    <loc>https://obaya.me/gallery/omar%20with%20his%20father.jpg</loc>
+    <lastmod>2025-06-09</lastmod>
+    <priority>0.8</priority>
     <image:image>
       <image:loc>https://obaya.me/images/gallery/mine/omar%20with%20his%20father.jpg</image:loc>
       <image:caption>Omar with his father</image:caption>
@@ -240,7 +270,9 @@
     </image:image>
   </url>
   <url>
-    <loc>https://obaya.me/images/gallery/mine/cinematic%20view.jpg</loc>
+    <loc>https://obaya.me/gallery/cinematic%20view.jpg</loc>
+    <lastmod>2025-06-09</lastmod>
+    <priority>0.8</priority>
     <image:image>
       <image:loc>https://obaya.me/images/gallery/mine/cinematic%20view.jpg</image:loc>
       <image:caption>Cinematic view captured by Omar</image:caption>
@@ -248,7 +280,9 @@
     </image:image>
   </url>
   <url>
-    <loc>https://obaya.me/images/gallery/mine/omar%20with%20friends%20at%20the%20dock.jpg</loc>
+    <loc>https://obaya.me/gallery/omar%20with%20friends%20at%20the%20dock.jpg</loc>
+    <lastmod>2025-06-09</lastmod>
+    <priority>0.8</priority>
     <image:image>
       <image:loc>https://obaya.me/images/gallery/mine/omar%20with%20friends%20at%20the%20dock.jpg</image:loc>
       <image:caption>Omar with friends at the dock</image:caption>
@@ -256,7 +290,9 @@
     </image:image>
   </url>
   <url>
-    <loc>https://obaya.me/images/gallery/mine/friends%20at%20uni.jpg</loc>
+    <loc>https://obaya.me/gallery/friends%20at%20uni.jpg</loc>
+    <lastmod>2025-06-09</lastmod>
+    <priority>0.8</priority>
     <image:image>
       <image:loc>https://obaya.me/images/gallery/mine/friends%20at%20uni.jpg</image:loc>
       <image:caption>Omar's friends at university</image:caption>
@@ -264,7 +300,9 @@
     </image:image>
   </url>
   <url>
-    <loc>https://obaya.me/images/gallery/mine/friends%20in%20elevator.jpg</loc>
+    <loc>https://obaya.me/gallery/friends%20in%20elevator.jpg</loc>
+    <lastmod>2025-06-09</lastmod>
+    <priority>0.8</priority>
     <image:image>
       <image:loc>https://obaya.me/images/gallery/mine/friends%20in%20elevator.jpg</image:loc>
       <image:caption>Omar's friends in an elevator</image:caption>
@@ -272,7 +310,9 @@
     </image:image>
   </url>
   <url>
-    <loc>https://obaya.me/images/gallery/mine/friends%20at%20the%20elevator.jpg</loc>
+    <loc>https://obaya.me/gallery/friends%20at%20the%20elevator.jpg</loc>
+    <lastmod>2025-06-09</lastmod>
+    <priority>0.8</priority>
     <image:image>
       <image:loc>https://obaya.me/images/gallery/mine/friends%20at%20the%20elevator.jpg</image:loc>
       <image:caption>Omar's friends posing in an elevator</image:caption>
@@ -280,7 +320,9 @@
     </image:image>
   </url>
   <url>
-    <loc>https://obaya.me/images/gallery/mine/omar%20with%20friends.jpg</loc>
+    <loc>https://obaya.me/gallery/omar%20with%20friends.jpg</loc>
+    <lastmod>2025-06-09</lastmod>
+    <priority>0.8</priority>
     <image:image>
       <image:loc>https://obaya.me/images/gallery/mine/omar%20with%20friends.jpg</image:loc>
       <image:caption>Omar with his friends</image:caption>
@@ -288,7 +330,9 @@
     </image:image>
   </url>
   <url>
-    <loc>https://obaya.me/images/gallery/mine/mirror%20selfie.jpg</loc>
+    <loc>https://obaya.me/gallery/mirror%20selfie.jpg</loc>
+    <lastmod>2025-06-09</lastmod>
+    <priority>0.8</priority>
     <image:image>
       <image:loc>https://obaya.me/images/gallery/mine/mirror%20selfie.jpg</image:loc>
       <image:caption>Omar taking a mirror selfie</image:caption>
