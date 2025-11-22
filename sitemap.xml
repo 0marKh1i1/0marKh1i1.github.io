@@ -2,247 +2,253 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:image="http://www.google.com/schemas/sitemap-image/1.1">
   <url>
     <loc>https://obaya.me/</loc>
-    <lastmod>2025-09-03</lastmod>
+    <lastmod>2025-11-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>1</priority>
   </url>
   <url>
     <loc>https://obaya.me/about</loc>
-    <lastmod>2025-09-03</lastmod>
+    <lastmod>2025-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://obaya.me/about/ar</loc>
-    <lastmod>2025-09-03</lastmod>
+    <lastmod>2025-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://obaya.me/work</loc>
-    <lastmod>2025-09-03</lastmod>
+    <lastmod>2025-11-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://obaya.me/blog</loc>
-    <lastmod>2025-09-03</lastmod>
+    <lastmod>2025-11-22</lastmod>
     <changefreq>daily</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://obaya.me/cv</loc>
-    <lastmod>2025-09-03</lastmod>
+    <lastmod>2025-11-22</lastmod>
     <changefreq>weekly</changefreq>
     <priority>0.9</priority>
   </url>
   <url>
     <loc>https://obaya.me/license</loc>
-    <lastmod>2025-09-03</lastmod>
+    <lastmod>2025-11-22</lastmod>
     <changefreq>yearly</changefreq>
     <priority>0.4</priority>
   </url>
   <url>
     <loc>https://obaya.me/blog/Ai-Video</loc>
-    <lastmod>2025-09-03</lastmod>
+    <lastmod>2025-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://obaya.me/work/Al-Yasoufy</loc>
-    <lastmod>2025-09-03</lastmod>
+    <lastmod>2025-11-22</lastmod>
+    <changefreq>monthly</changefreq>
+    <priority>0.7</priority>
+  </url>
+  <url>
+    <loc>https://obaya.me/work/Astro-Impact</loc>
+    <lastmod>2025-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.7</priority>
   </url>
   <url>
     <loc>https://obaya.me/gallery/IEEEX1.jpg</loc>
-    <lastmod>2025-09-03</lastmod>
+    <lastmod>2025-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://obaya.me/gallery/lightBlue-shirt.jpg</loc>
-    <lastmod>2025-09-03</lastmod>
+    <lastmod>2025-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://obaya.me/gallery/at-ghirass-iftar.jpg</loc>
-    <lastmod>2025-09-03</lastmod>
+    <lastmod>2025-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://obaya.me/gallery/with-orange-building.jpg</loc>
-    <lastmod>2025-09-03</lastmod>
+    <lastmod>2025-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://obaya.me/gallery/acm-ballons.jpeg</loc>
-    <lastmod>2025-09-03</lastmod>
+    <lastmod>2025-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://obaya.me/gallery/acm1.jpeg</loc>
-    <lastmod>2025-09-03</lastmod>
+    <lastmod>2025-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://obaya.me/gallery/CPEKW.jpg</loc>
-    <lastmod>2025-09-03</lastmod>
+    <lastmod>2025-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://obaya.me/gallery/Eureka.jpg</loc>
-    <lastmod>2025-09-03</lastmod>
+    <lastmod>2025-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://obaya.me/gallery/IEEERAS.jpg</loc>
-    <lastmod>2025-09-03</lastmod>
+    <lastmod>2025-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://obaya.me/gallery/IEEEX2.jpg</loc>
-    <lastmod>2025-09-03</lastmod>
+    <lastmod>2025-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://obaya.me/gallery/robot1.jpeg</loc>
-    <lastmod>2025-09-03</lastmod>
+    <lastmod>2025-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://obaya.me/gallery/robot2.jpeg</loc>
-    <lastmod>2025-09-03</lastmod>
+    <lastmod>2025-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://obaya.me/gallery/uni2.jpg</loc>
-    <lastmod>2025-09-03</lastmod>
+    <lastmod>2025-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://obaya.me/gallery/uni3.jpg</loc>
-    <lastmod>2025-09-03</lastmod>
+    <lastmod>2025-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://obaya.me/gallery/JSNE-problem-solving-1th-place-picture.jpg</loc>
-    <lastmod>2025-09-03</lastmod>
+    <lastmod>2025-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://obaya.me/gallery/Eureka2.jpg</loc>
-    <lastmod>2025-09-03</lastmod>
+    <lastmod>2025-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://obaya.me/gallery/at-jsyp.jpg</loc>
-    <lastmod>2025-09-03</lastmod>
+    <lastmod>2025-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://obaya.me/gallery/jsyp-with-dr-malak.jpg</loc>
-    <lastmod>2025-09-03</lastmod>
+    <lastmod>2025-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://obaya.me/gallery/jsyp-with-dr-mousa.jpg</loc>
-    <lastmod>2025-09-03</lastmod>
+    <lastmod>2025-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://obaya.me/gallery/omar-with-family.jpg</loc>
-    <lastmod>2025-09-03</lastmod>
+    <lastmod>2025-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://obaya.me/gallery/omar-with-grandfather.jpg</loc>
-    <lastmod>2025-09-03</lastmod>
+    <lastmod>2025-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://obaya.me/gallery/omar-with-his-father.jpg</loc>
-    <lastmod>2025-09-03</lastmod>
+    <lastmod>2025-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://obaya.me/gallery/omar-with-friends-at-the-dock.jpg</loc>
-    <lastmod>2025-09-03</lastmod>
+    <lastmod>2025-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://obaya.me/gallery/friends-at-uni.jpg</loc>
-    <lastmod>2025-09-03</lastmod>
+    <lastmod>2025-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://obaya.me/gallery/friends-in-elevator.jpg</loc>
-    <lastmod>2025-09-03</lastmod>
+    <lastmod>2025-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://obaya.me/gallery/friends-at-the-elevator.jpg</loc>
-    <lastmod>2025-09-03</lastmod>
+    <lastmod>2025-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://obaya.me/gallery/omar-with-friends.jpg</loc>
-    <lastmod>2025-09-03</lastmod>
+    <lastmod>2025-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://obaya.me/gallery/mirror-selfie.jpg</loc>
-    <lastmod>2025-09-03</lastmod>
+    <lastmod>2025-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://obaya.me/gallery/cinematic-view.jpg</loc>
-    <lastmod>2025-09-03</lastmod>
+    <lastmod>2025-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://obaya.me/gallery/dua-blue.png</loc>
-    <lastmod>2025-09-03</lastmod>
+    <lastmod>2025-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://obaya.me/gallery/dua-pink.png</loc>
-    <lastmod>2025-09-03</lastmod>
+    <lastmod>2025-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
   <url>
     <loc>https://obaya.me/gallery/dua-yellow.png</loc>
-    <lastmod>2025-09-03</lastmod>
+    <lastmod>2025-11-22</lastmod>
     <changefreq>monthly</changefreq>
     <priority>0.8</priority>
   </url>
