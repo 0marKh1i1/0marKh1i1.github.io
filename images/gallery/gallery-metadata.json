@@ -1,0 +1,202 @@
+{
+  "images": [
+    {
+      "filename": "IEEEX1.jpg",
+      "alt": "Omar presenting at IEEE X1 event",
+      "orientation": "vertical"
+    },
+    {
+      "filename": "lightBlue-shirt.jpg",
+      "alt": "Portrait of Omar in a light blue shirt",
+      "orientation": "vertical"
+    },
+    {
+      "filename": "at-ghirass-iftar.jpg",
+      "alt": "Omar attending Ghirass Iftar event",
+      "orientation": "vertical"
+    },
+    {
+      "filename": "thumbs-up.jpg",
+      "alt": "Omar with his thumbs up",
+      "orientation": "vertical"
+    },
+    {
+      "filename": "with-orange-building.jpg",
+      "alt": "Omar posing near an orange building",
+      "orientation": "vertical"
+    },
+    {
+      "filename": "acm-ballons.jpeg",
+      "alt": "ACM event with balloons",
+      "orientation": "horizontal"
+    },
+    {
+      "filename": "acm1.jpeg",
+      "alt": "Group photo at ACM conference",
+      "orientation": "horizontal"
+    },
+    {
+      "filename": "omar-nasa-friend.jpg",
+      "alt": "Omar with a friend at NASA event",
+      "orientation": "vertical"
+    },
+    {
+      "filename": "CPEKW.jpg",
+      "alt": "CPE Knowledge Workshop event",
+      "orientation": "horizontal"
+    },
+    {
+      "filename": "IEEERAS.jpg",
+      "alt": "IEEE RAS robotics showcase",
+      "orientation": "horizontal"
+    },
+    {
+      "filename": "omar-at-nasa.jpg",
+      "alt": "Omar at NASA event",
+      "orientation": "horizontal"
+    },
+    {
+      "filename": "Eureka.jpg",
+      "alt": "Omar at Eureka innovation fair",
+      "orientation": "horizontal"
+    },
+    {
+      "filename": "robot2.jpeg",
+      "alt": "Second robotics prototype by Omar",
+      "orientation": "horizontal"
+    },
+    {
+      "filename": "IEEEX2.jpg",
+      "alt": "Highlights from IEEE X2 conference",
+      "orientation": "horizontal"
+    },
+    {
+      "filename": "robot1.jpeg",
+      "alt": "First robotics project by Omar",
+      "orientation": "horizontal"
+    },
+    {
+      "filename": "uni2.jpg",
+      "alt": "View of university campus",
+      "orientation": "vertical"
+    },
+    {
+      "filename": "uni3.jpg",
+      "alt": "Another view of university campus",
+      "orientation": "vertical"
+    },
+    {
+      "filename": "JSNE-problem-solving-1th-place-picture.jpg",
+      "alt": "Omar receiving JSNE problem-solving 1st place award",
+      "orientation": "vertical"
+    },
+    {
+      "filename": "Eureka2.jpg",
+      "alt": "Omar at Eureka innovation fair 2",
+      "orientation": "vertical"
+    },
+    {
+      "filename": "at-jsyp.jpg",
+      "alt": "Omar at JSYP event",
+      "orientation": "vertical"
+    },
+    {
+      "filename": "jsyp-with-dr-mousa.jpg",
+      "alt": "Omar at JSYP event with Dr. Mousa",
+      "orientation": "vertical"
+    },
+    {
+      "filename": "omar-with-family.jpg",
+      "alt": "Omar with his family",
+      "orientation": "vertical"
+    },
+    {
+      "filename": "omar-with-grandfather.jpg",
+      "alt": "Omar with his grandfather",
+      "orientation": "vertical"
+    },
+    {
+      "filename": "omar-with-his-father.jpg",
+      "alt": "Omar with his father",
+      "orientation": "horizontal"
+    },
+    {
+      "filename": "CPE-NES.jpg",
+      "alt": "New students orientation event for CPE and NES",
+      "orientation": "horizontal"
+    },
+    {
+      "filename": "jsyp-with-dr-malak.jpg",
+      "alt": "Omar at JSYP event with Dr. Malak",
+      "orientation": "horizontal"
+    },
+    {
+      "filename": "omar-with-friends-at-the-dock.jpg",
+      "alt": "Omar with friends at the dock",
+      "orientation": "horizontal"
+    },
+    {
+      "filename": "friends-at-uni.jpg",
+      "alt": "Omar's friends at university",
+      "orientation": "horizontal"
+    },
+    {
+      "filename": "friends-in-elevator.jpg",
+      "alt": "Omar's friends in an elevator",
+      "orientation": "vertical"
+    },
+    {
+      "filename": "friends-at-the-elevator.jpg",
+      "alt": "Omar's friends posing in an elevator",
+      "orientation": "vertical"
+    },
+    {
+      "filename": "omar-with-friends.jpg",
+      "alt": "Omar with his friends",
+      "orientation": "vertical"
+    },
+    {
+      "filename": "mirror-selfie.jpg",
+      "alt": "Omar taking a mirror selfie",
+      "orientation": "vertical"
+    },
+    {
+      "filename": "spacer1.jpg",
+      "alt": "Spacer",
+      "orientation": "horizontal",
+      "spacer": true
+    },
+    {
+      "filename": "cinematic-view.jpg",
+      "alt": "Cinematic view captured by Omar",
+      "orientation": "horizontal"
+    },
+    {
+      "filename": "dua-blue.png",
+      "alt": "Dua blue",
+      "orientation": "horizontal"
+    },
+    {
+      "filename": "spacer2.jpg",
+      "alt": "Spacer",
+      "orientation": "horizontal",
+      "spacer": true
+    },
+    {
+      "filename": "spacer3.jpg",
+      "alt": "Spacer",
+      "orientation": "horizontal",
+      "spacer": true
+    },
+    {
+      "filename": "dua-pink.png",
+      "alt": "Dua pink",
+      "orientation": "horizontal"
+    },
+    {
+      "filename": "dua-yellow.png",
+      "alt": "Dua yellow",
+      "orientation": "horizontal"
+    }
+  ]
+}
